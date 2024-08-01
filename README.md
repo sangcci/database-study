@@ -11,11 +11,17 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/baksakcci"><img src="https://avatars.githubusercontent.com/u/105288887?s=400&u=d167d06ea0dd803215c0e335691ae4e3470540a3&v=4" width="100px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/"><img src="" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/Iecorn"><img src="https://avatars.githubusercontent.com/u/82310788?v=4" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/LeeHyeonseob"><img src="https://avatars.githubusercontent.com/u/97226053?v=4" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/s0o0bn"><img src="https://avatars.githubusercontent.com/u/67736320?v=4" width="100px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/TrixieL20"><img src="https://avatars.githubusercontent.com/u/102663507?v=4" width="100px;" alt=""></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/baksakcci"><b>baksakcci</b></a></td>
-    <td align="center"><a href="https://github.com/"><b></b></a></td>
+    <td align="center"><a href="https://github.com/baksakcci"><b>박상혁</b></a></td>
+    <td align="center"><a href="https://github.com/Iecorn"><b>윤이건</b></a></td>
+    <td align="center"><a href="https://github.com/Iecorn"><b>이현섭</b></a></td>
+    <td align="center"><a href="https://github.com/Iecorn"><b>윤수빈</b></a></td>
+    <td align="center"><a href="https://github.com/Iecorn"><b>이민정</b></a></td>
   </tr>
 </table>
 
